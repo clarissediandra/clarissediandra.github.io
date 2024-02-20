@@ -3,19 +3,30 @@ title: "Home"
 layout: page
 ---
 
-<img class="pfp" src="/assets/img/pfp.jpg">
-
-<div class="desc">
-    <div class="title">Clarisse Diandra</div>
-    <div class="row">Biochemist & Researcher</div>
-    <div class="loc"><svg aria-hidden=true class="icon"><use xlink:href="{{ "/assets/fontawesome/icons.svg" | relative_url }}#location-dot"></use></svg> Leeds, United Kingom</div>
-    <div class="more"><a class="resume" href="/assets/docs/resume.pdf"><div class="loc">My Resume <svg aria-hidden=true class="icon"><use xlink:href="{{ "/assets/fontawesome/icons.svg" | relative_url }}#file"></use></svg></div></a></div>
-    <!-- {% include menu.html menu=site.external %} -->
+<div style="display:flex; flex-direction: row; width: 100%;">
+    <div style="flex: 1; align-self: flex-start">
+        <h2>About me</h2>
+        <p>
+            Hello I'm Clarisse :)
+        </p>
+        <p>
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce et tortor arcu. Fusce eget risus finibus, aliquet diam a, varius ligula. Pellentesque ac leo vel nulla euismod aliquet vitae ac leo. Sed et volutpat lectus. Nam bibendum eros velit, quis luctus neque viverra ut.
+        </p>
+        <p>
+            Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Pellentesque tincidunt sem eget sem semper, vel varius nisi egestas.
+        </p>
+    </div>
+    <div style="flex: 1; align-self: flex-start">
+        <img class="pfp" src="/assets/img/pfp.jpg">
+        <div class="desc">
+            <div class="title">Clarisse Diandra</div>
+            <div class="row">Biochemist & Researcher</div>
+            <div class="loc"><svg aria-hidden=true class="icon"><use xlink:href="{{ "/assets/fontawesome/icons.svg" | relative_url }}#location-dot"></use></svg> Leeds, United Kingom</div>
+            <div class="more"><a class="resume" href="/assets/docs/resume.pdf"><div class="loc">My Resume <svg aria-hidden=true class="icon"><use xlink:href="{{ "/assets/fontawesome/icons.svg" | relative_url }}#file"></use></svg></div></a></div>
+            <!-- {% include menu.html menu=site.external %} -->
+        </div>
+    </div>
 </div>
-
-## About me
-
-Hello I'm Clarisse :)
 
 ## Software Proficiency
 
