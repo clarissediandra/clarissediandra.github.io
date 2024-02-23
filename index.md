@@ -43,7 +43,31 @@ layout: page
     <h2 style="text-align: center; margin-top: 0px;">Software Proficiency</h2>
     <div class="skillbox">
         <a style="text-decoration:none" title="PyMOL" href="https://pymol.org/2/">
-            <img class="softwareicon" alt="PyMOL logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/PyMOL_logo.svg/800px-PyMOL_logo.svg.png">
+            <img class="softwareicon" alt="PyMOL logo" src="/assets/img/logos/pymol.png">
+        </a>
+        <a style="text-decoration:none" title="Fiji" href="https://imagej.net/software/fiji/">
+            <img class="softwareicon" alt="Fiji logo" src="/assets/img/logos/fiji.svg">
+        </a>
+        <a style="text-decoration:none" title="OriginLab" href="https://www.originlab.com">
+            <img class="softwareicon" alt="OriginLab logo" src="/assets/img/logos/originlab.png">
+        </a>
+        <a style="text-decoration:none" title="Benchling" href="https://www.benchling.com">
+            <img class="softwareicon" alt="Benchling logo" src="/assets/img/logos/benchling.png">
+        </a>
+        <a style="text-decoration:none" title="Expasy" href="https://www.expasy.org">
+            <img class="softwareicon" alt="Expasy logo" src="/assets/img/logos/expasy.png">
+        </a>
+        <a style="text-decoration:none" title="UniProt" href="https://www.uniprot.org">
+            <img class="softwareicon" alt="UniProt logo" src="/assets/img/logos/uniprot.svg">
+        </a>
+        <a style="text-decoration:none" title="BLAST" href="https://blast.ncbi.nlm.nih.gov/Blast.cgi">
+            <img class="softwareicon" alt="BLAST logo" src="/assets/img/logos/blast.png">
+        </a>
+        <a style="text-decoration:none" title="SnapGene" href="https://www.snapgene.com">
+            <img class="softwareicon" alt="SnapGene logo" src="/assets/img/logos/snapgene.svg">
+        </a>
+        <a style="text-decoration:none" title="AutoDock" href="https://autodock.scripps.edu">
+            <img class="softwareicon" alt="AutoDock logo" src="/assets/img/logos/autodock.png">
         </a>
     </div>
 </div>
