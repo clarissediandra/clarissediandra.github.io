@@ -21,11 +21,14 @@ icons:                     # additional icons that can be used in the text acros
   - {icon: file}
   - {icon: dna}
   - {icon: flask}
+  - {icon: magnifying-glass}
+  - {icon: book}
+  - {icon: file}
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "commercial.html", icon: "sack-dollar", title: "Commercial Projects"}
-  - {file: "personal.html", icon: "person", title: "Personal Projects"}
-  - {file: "university.html", icon: "building-columns", title: "University Projects"}
+  - {file: "research.html", icon: "magnifying-glass", title: "Research Experience"}
+  - {file: "nonresearch.html", icon: "book", title: "Non-Research Experience"}
+  - {file: "certificates.html", icon: "file", title: "Certificates & Awards"}
   # - {file: "categories.html"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
