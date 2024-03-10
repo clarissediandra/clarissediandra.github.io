@@ -3,7 +3,7 @@ title: "Home"
 layout: page
 ---
 
-<div style="border: 0px solid #ccc; border-radius: 10px; box-shadow: 0 20px 20px rgba(0, 0, 0, 0.3); margin-bottom: 40px;">
+<div style="border: 0px solid #ccc; border-radius: 10px; box-shadow: 0 20px 20px rgba(0, 0, 0, 0.1); margin-bottom: 40px;">
     <div style="display: flex; flex-direction: row; width: 100%; padding:20px;">
         <div style="flex: 1; align-self: flex-start; margin-right: 20px;">
             <h2>About me</h2>
@@ -30,7 +30,7 @@ layout: page
     </div>
 </div>
 
-<div style="border: 0px solid #ccc; border-radius: 10px; box-shadow: 0 20px 20px rgba(0, 0, 0, 0.3); margin-bottom: 40px; padding:20px;">
+<div style="border: 0px solid #ccc; border-radius: 10px; box-shadow: 0 20px 20px rgba(0, 0, 0, 0.1); margin-bottom: 40px; padding:20px;">
     <h2 style="text-align: center; margin-top: 0px;">Skillset</h2>
     <div class="skillbox">
         <div class="skill">
@@ -39,7 +39,7 @@ layout: page
     </div>
 </div>
 
-<div style="border: 0px solid #ccc; border-radius: 10px; box-shadow: 0 20px 20px rgba(0, 0, 0, 0.3); margin-bottom: 40px; padding:20px;">
+<div style="border: 0px solid #ccc; border-radius: 10px; box-shadow: 0 20px 20px rgba(0, 0, 0, 0.1); margin-bottom: 40px; padding:20px;">
     <h2 style="text-align: center; margin-top: 0px;">Software Proficiency</h2>
     <div class="skillbox">
         <a style="text-decoration:none" title="PyMOL" href="https://pymol.org/2/">
@@ -64,10 +64,25 @@ layout: page
             <img class="softwareicon" alt="BLAST logo" src="/assets/img/logos/blast.png">
         </a>
         <a style="text-decoration:none" title="SnapGene" href="https://www.snapgene.com">
-            <img class="softwareicon" alt="SnapGene logo" src="/assets/img/logos/snapgene.svg">
+            <img class="softwareicon" alt="SnapGene logo" src="/assets/img/logos/snapgene.png">
         </a>
         <a style="text-decoration:none" title="AutoDock" href="https://autodock.scripps.edu">
             <img class="softwareicon" alt="AutoDock logo" src="/assets/img/logos/autodock.png">
         </a>
+    </div>
+</div>
+
+<div style="border: 0px solid #ccc; border-radius: 10px; box-shadow: 0 20px 20px rgba(0, 0, 0, 0.1); margin-bottom: 40px; padding:20px;">
+    <h2 style="text-align: center; margin-top: 0px;">Interests & Hobbies</h2>
+    <div class="skillbox">
+        <div class="skill">
+            Travel
+        </div>
+        <div class="skill">
+            Painting
+        </div>
+        <div class="skill">
+            Photography
+        </div>
     </div>
 </div>
