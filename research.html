@@ -1,0 +1,15 @@
+---
+layout: page
+permalink: /categories/research
+title: Research Experience
+---
+
+<div id="archives">
+{% for post in site.categories.Research %}
+    <article class="archive-item">
+    {% include meta.html post=post preview=true %}
+    {{ post.excerpt }}
+    <div class="more"><a href="{{ post.url | relative_url }}">Read More</a></div>
+</article>
+{% endfor %}
+</div>
