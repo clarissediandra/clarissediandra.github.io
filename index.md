@@ -34,7 +34,61 @@ layout: page
     <h2 style="text-align: center; margin-top: 0px;">Skillset</h2>
     <div class="skillbox">
         <div class="skill">
-            Labs
+            Protein Purification
+        </div>
+        <div class="skill">
+            Enzyme Kinetics
+        </div>
+        <div class="skill">
+            Molecular Biology
+        </div>
+        <div class="skill">
+            Chromatography
+        </div>
+        <div class="skill">
+            PCR
+        </div>
+        <div class="skill">
+            Bioinformatics
+        </div>
+        <div class="skill">
+            Cell Culture
+        </div>
+        <div class="skill">
+            Mass Spectrometry
+        </div>
+        <div class="skill">
+            Structural Biology
+        </div>
+        <div class="skill">
+            Genomics
+        </div>
+        <div class="skill">
+            Immunology
+        </div>
+        <div class="skill">
+            NMR Spectroscopy
+        </div>
+        <div class="skill">
+            Fluorescence Microscopy
+        </div>
+        <div class="skill">
+            Proteomics
+        </div>
+        <div class="skill">
+            SDS-PAGE
+        </div>
+        <div class="skill">
+            Assay Development
+        </div>
+        <div class="skill">
+            Biochemical Analysis
+        </div>
+        <div class="skill">
+            Plasmid Purification
+        </div>
+        <div class="skill">
+            Western Blot
         </div>
     </div>
 </div>
