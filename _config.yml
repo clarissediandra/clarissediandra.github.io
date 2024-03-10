@@ -28,7 +28,7 @@ icons:                     # additional icons that can be used in the text acros
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "research.html", icon: "magnifying-glass", title: "Research Experience"}
   - {file: "nonresearch.html", icon: "book", title: "Non-Research Experience"}
-  - {file: "certificates.html", icon: "file", title: "Certificates & Awards"}
+  - {file: "certificates.md", icon: "file", title: "Certificates & Awards"}
   # - {file: "categories.html"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
