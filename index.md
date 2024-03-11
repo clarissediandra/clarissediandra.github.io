@@ -7,15 +7,16 @@ layout: page
     <div style="display: flex; flex-direction: row; width: 100%; padding:20px;">
         <div style="flex: 1; align-self: flex-start; margin-right: 20px;">
             <h2>About me</h2>
-            <p>
-                Hello I'm Clarisse :)
-            </p>
-            <p>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce et tortor arcu. Fusce eget risus finibus, aliquet diam a, varius ligula. Pellentesque ac leo vel nulla euismod aliquet vitae ac leo. Sed et volutpat lectus. Nam bibendum eros velit, quis luctus neque viverra ut.
-            </p>
-            <p>
-                Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Pellentesque tincidunt sem eget sem semper, vel varius nisi egestas.
-            </p>
+<div markdown="1">
+Hello there! I am Clarisse, a passionate biochemist with a strong interest in research and the ever-evolving scientific advancement in bacteria, viruses, and cancer as well as their clinical treatment. With a curious nature and a penchant for problem-solving, I thrive on solving research questions and actively participating in new discoveries into current research gaps.
+
+My research journey as a Biochemistry Masters Student in the University of Leeds has been an eye-opening experience for the past 4 years, during which I've honed my skills in sample preparations, protein biophysical characterisations, and bioinformatics. I am committed to delivering high-quality outputs within a given time frame. Driven by a genuine love for research, I approach each challenge with enthusiasm and a keen eye for detail. My commitment to continuous learning and self-development ensures that I stay at the forefront of emerging trends and technologies, always seeking new ways to elevate my skills.
+
+Beyond the technical aspects, my strong communicative and collaborative nature allows me to adapt well to team projects. I believe in the power of synergy, where a team of multi-disciplinary individuals converge to contribute to interesting findings. Building meaningful connections and creating a positive atmosphere are integral parts of my professional ethics.
+I invite you to explore my portfolio and witness the culmination of my experiences, skills, and dedication.
+
+*“To know how to wonder and question is the first step of the mind toward discovery”* - Louis Pasteur
+</div>
         </div>
         <div style="flex: 1; align-self: flex-start">
             <img class="pfp" src="/assets/img/pfp.jpg">
