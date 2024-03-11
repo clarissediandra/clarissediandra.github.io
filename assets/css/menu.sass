@@ -11,8 +11,12 @@ nav a
   border-radius: 5em
 
 nav a.selected
-  background: lighten($dark, 20%)
+  background: lighten($dark, 80%)
   text-decoration: inherit
+
+@media (prefers-color-scheme: dark)
+    nav a.selected
+        background: lighten($dark, 20%)
 
 // idea source for dynamic css burger menu: https://blog.logrocket.com/create-responsive-mobile-menu-with-css-no-javascript/#styling-the-header-and-logo
 
@@ -39,20 +43,28 @@ nav a.selected
   margin: 0
 
 .burger-line
-  background: $light
+  background: $dark
   display: block
   height: 2px
   position: relative
   width: 24px
 
+@media (prefers-color-scheme: dark)
+    .burger-line
+        background: $light
+
 .burger-line::before, .burger-line::after
-  background: $light
+  background: $dark
   content: ''
   display: block
   height: 100%
   position: absolute
   transition: all .2s ease-out
   width: 100%
+
+@media (prefers-color-scheme: dark)
+    .burger-line::before, .burger-line::after
+        background: $light
 
 .burger-line::before
   top: 5px
