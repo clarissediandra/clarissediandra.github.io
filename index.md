@@ -3,20 +3,17 @@ title: "Home"
 layout: page
 ---
 
-<div style="border: 0px solid #ccc; border-radius: 10px; box-shadow: 0 20px 20px rgba(0, 0, 0, 0.1); margin-bottom: 40px;">
-    <div style="display: flex; flex-direction: row; width: 100%; padding:20px;">
+<div class="business-card">
+    <div style="display: flex; flex-direction: row; width: 100%; padding:20px; padding-bottom: 0px;">
         <div style="flex: 1; align-self: flex-start; margin-right: 20px;">
             <h2>About me</h2>
 <div markdown="1">
-Hello there! I am Clarisse, a passionate biochemist with a strong interest in research and the ever-evolving scientific advancement in bacteria, viruses, and cancer as well as their clinical treatment. With a curious nature and a penchant for problem-solving, I thrive on solving research questions and actively participating in new discoveries into current research gaps.
+I am Clarisse, a passionate biochemist with a strong interest in research and the ever-evolving scientific advancement in bacteria, viruses, and cancer as well as their clinical treatment. With a curious nature and a penchant for problem-solving, I thrive on solving research questions and actively participating in new discoveries into current research gaps.
 
-My research journey as a Biochemistry Masters Student in the University of Leeds has been an eye-opening experience for the past 4 years, during which I've honed my skills in sample preparations, protein biophysical characterisations, and bioinformatics. I am committed to delivering high-quality outputs reliably within a given time frame. Driven by a genuine love for research, I approach each challenge with enthusiasm and a keen eye for detail. My commitment to continuous learning and self-development ensures that I stay at the forefront of emerging trends and technologies, always seeking new ways to elevate my skills.
-
-Beyond the technical aspects, my strong communicative and collaborative nature allows me to adapt well to team projects. I believe in the power of synergy, where a team of multi-disciplinary individuals converge to contribute to interesting findings. Building meaningful connections and creating a positive atmosphere are integral parts of my professional ethics.
-I invite you to explore my portfolio and witness the culmination of my experiences, skills, and dedication.
+My research journey as a Biochemistry Masters Student in the University of Leeds has been an eye-opening experience for the past 4 years, during which I've honed my skills in sample preparations, protein biophysical characterisations, and bioinformatics. I am committed to delivering high-quality outputs reliably within the given time frame. Driven by a genuine love for research, I approach each challenge with enthusiasm and a keen eye for detail. My commitment to continuous learning and self-development ensures that I stay at the forefront of emerging trends and technologies, always seeking new ways to elevate my skills.
 </div>
         </div>
-        <div style="flex: 1; align-self: flex-start">
+        <div style="flex: 1; align-self: flex-start; padding-top:60px;">
             <img class="pfp" src="/assets/img/pfp.jpg">
             <div class="desc">
                 <div class="title">Clarisse Diandra</div>
@@ -25,14 +22,15 @@ I invite you to explore my portfolio and witness the culmination of my experienc
                 <div class="more"><a class="resume" href="/assets/docs/resume.pdf"><div class="loc">My Resume <svg aria-hidden=true class="icon"><use xlink:href="{{ "/assets/fontawesome/icons.svg" | relative_url }}#file"></use></svg></div></a></div>
                 <!-- {% include menu.html menu=site.external %} -->
             </div>
-<div style="width:90%" markdown="1">
-*“To know how to wonder and question is the first step of the mind toward discovery.”* - Louis Pasteur
-</div>
         </div>
+
     </div>
+<p style="width:100%; text-align:center;" markdown="1">
+*“To know how to wonder and question is the first step of the mind toward discovery.”* - Louis Pasteur
+</p>
 </div>
 
-<div style="border: 0px solid #ccc; border-radius: 10px; box-shadow: 0 20px 20px rgba(0, 0, 0, 0.1); margin-bottom: 40px; padding:20px;">
+<div class="business-card">
     <h2 style="text-align: center; margin-top: 0px;">Skillset</h2>
     <div class="skillbox">
         <div class="skill">
@@ -95,7 +93,7 @@ I invite you to explore my portfolio and witness the culmination of my experienc
     </div>
 </div>
 
-<div style="border: 0px solid #ccc; border-radius: 10px; box-shadow: 0 20px 20px rgba(0, 0, 0, 0.1); margin-bottom: 40px; padding:20px;">
+<div class ="business-card">
     <h2 style="text-align: center; margin-top: 0px;">Software Proficiency</h2>
     <div class="skillbox">
         <a style="text-decoration:none" title="PyMOL" href="https://pymol.org/2/">
@@ -128,7 +126,7 @@ I invite you to explore my portfolio and witness the culmination of my experienc
     </div>
 </div>
 
-<div style="border: 0px solid #ccc; border-radius: 10px; box-shadow: 0 20px 20px rgba(0, 0, 0, 0.1); margin-bottom: 40px; padding:20px;">
+<div class="business-card">
     <h2 style="text-align: center; margin-top: 0px;">Interests & Hobbies</h2>
     <div class="skillbox">
         <div class="skill">
