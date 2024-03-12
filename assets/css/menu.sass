@@ -44,23 +44,26 @@ nav a.selected
 
 .burger-line
   background: $dark
-  display: block
-  height: 2px
+  color: $dark
   position: relative
+  display: block
   width: 24px
+  height: 3px
+  padding: 0px 0px
 
 @media (prefers-color-scheme: dark)
     .burger-line
+        color: $light
         background: $light
 
 .burger-line::before, .burger-line::after
   background: $dark
   content: ''
   display: block
+  width: 100%
   height: 100%
   position: absolute
   transition: all .2s ease-out
-  width: 100%
 
 @media (prefers-color-scheme: dark)
     .burger-line::before, .burger-line::after
