@@ -115,7 +115,7 @@ My research journey as a Biochemistry Masters Student in the University of Leeds
             <img class="softwareicon" alt="BLAST logo" src="/assets/img/logos/blast.png">
         </a>
         <a style="text-decoration:none" title="SnapGene" href="https://www.snapgene.com">
-            <img class="softwareicon" alt="SnapGene logo" src="/assets/img/logos/snapgene.png">
+            <img class="softwareicon" alt="SnapGene logo" src="/assets/img/logos/snapgene.svg">
         </a>
         <a style="text-decoration:none" title="AutoDock" href="https://autodock.scripps.edu">
             <img class="softwareicon" alt="AutoDock logo" src="/assets/img/logos/autodock.png">
