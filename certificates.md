@@ -26,6 +26,6 @@ title: Certificates & Awards
 
 </div>
 
-<h2 style="text-align:center;">Dean's Excellence Scolarship 2020-2023</h2>
+<h2 style="text-align:center;">Dean's Excellence Scholarship 2020-2023</h2>
 
-![MassSpectrometry](/assets/img/certificates/Edited%20Deans%20List%202020-2021.png){: width="50%" }
+![Scholarship](/assets/img/certificates/Edited%20Scholarship%20Letter.png){: width="50%" }
