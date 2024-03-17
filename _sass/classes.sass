@@ -96,7 +96,7 @@ a:hover
 
 @media (prefers-color-scheme: dark)
     .softwareicon
-        filter: drop-shadow(1px 0 0 #ffffff) drop-shadow(0 1px 0 #ffffff) drop-shadow(-1px 0 0 #ffffff) drop-shadow(0 -1px 0 #ffffff)
+        filter: drop-shadow($icon-border-width 0 0 $icon-border-color) drop-shadow(0 $icon-border-width 0 $icon-border-color) drop-shadow((-$icon-border-width) 0 0 $icon-border-color) drop-shadow(0 (-$icon-border-width) 0 $icon-border-color)
 
 .pfp
   border-radius: 50%
