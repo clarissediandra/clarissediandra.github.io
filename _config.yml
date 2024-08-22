@@ -29,7 +29,7 @@ icons:                     # additional icons that can be used in the text acros
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "research.html", icon: "magnifying-glass", title: "Research Experience"}
-  - {file: "passion.html", icon: "fire", title: "Passion Projects"}
+  - {file: "passion.html", icon: "heart", title: "Passion Projects"}
   - {file: "certificates.md", icon: "file", title: "Certificates & Awards"}
   - {file: "nonresearch.html", icon: "book", title: "Non-Research Experience"}
   # - {file: "categories.html"}
