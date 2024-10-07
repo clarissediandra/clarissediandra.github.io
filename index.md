@@ -11,7 +11,7 @@ layout: page
                     <div class="title">Clarisse Diandra</div>
                     <div class="row">Biochemistry MBiol, Bsc</div>
                     <div class="loc"><svg aria-hidden=true class="icon"><use xlink:href="{{ "/assets/fontawesome/icons.svg" | relative_url }}#location-dot"></use></svg> Leeds, United Kingdom</div>
-                    <div class="more"><a class="resume" href="/assets/docs/Clarisse Diandra Resume.pdf"><div class="loc">My Resume <svg aria-hidden=true class="icon"><use xlink:href="{{ "/assets/fontawesome/icons.svg" | relative_url }}#file"></use></svg></div></a></div>
+                    <div class="more"><a class="resume" href="/assets/docs/Clarisse%20Diandra%20Resume.pdf"><div class="loc">My Resume <svg aria-hidden=true class="icon"><use xlink:href="{{ "/assets/fontawesome/icons.svg" | relative_url }}#file"></use></svg></div></a></div>
                     <!-- {% include menu.html menu=site.external %} -->
                 </div>
             </div>
@@ -127,13 +127,16 @@ My research journey as a Biochemistry Masters Student at the University of Leeds
     <h2 style="text-align: center; margin-top: 0px;">Interests & Hobbies</h2>
     <div class="skillbox">
         <div class="skill">
-            Travel
-        </div>
-        <div class="skill">
             Painting
         </div>
         <div class="skill">
+            2D Art
+        </div>
+        <div class="skill">
             Photography
+        </div>
+        <div class="skill">
+            Ancient History
         </div>
     </div>
 </div>
