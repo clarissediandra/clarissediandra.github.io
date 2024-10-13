@@ -30,7 +30,6 @@
 .more .resume
   width: auto
 
-
 .more a:hover
   color: $light
   background: $link-color
@@ -95,8 +94,8 @@ a:hover
   margin-right: 1em
 
 @media (prefers-color-scheme: dark)
-    .softwareicon
-        filter: drop-shadow($icon-border-width 0 0 $icon-border-color) drop-shadow(0 $icon-border-width 0 $icon-border-color) drop-shadow((-$icon-border-width) 0 0 $icon-border-color) drop-shadow(0 (-$icon-border-width) 0 $icon-border-color)
+  .softwareicon
+    filter: drop-shadow($icon-border-width 0 0 $icon-border-color) drop-shadow(0 $icon-border-width 0 $icon-border-color) drop-shadow((-$icon-border-width) 0 0 $icon-border-color) drop-shadow(0 (-$icon-border-width) 0 $icon-border-color)
 
 .pfp
   border-radius: 50%
@@ -211,12 +210,7 @@ a:hover
     color: #a6e22e
 
 .business-card
-    border: 0px solid #ccc
-    border-radius: 10px
-    box-shadow: 15px 10px 15px 10px rgba(0, 0, 0, 0.1)
-    margin-bottom: 50px
-    padding: 30px
+  margin-bottom: 6rem
 
-@media (prefers-color-scheme: dark)
-    .business-card
-        box-shadow: 15px 10px 15px 10px rgba(0, 0, 0, 0.2)
+  &:last-of-type
+    margin-bottom: 0
