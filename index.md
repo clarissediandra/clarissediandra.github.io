@@ -30,61 +30,67 @@ My research journey as a Biochemistry Masters Student at the University of Leeds
     <h2 style="text-align: center; margin-top: 0px;">Skillset</h2>
     <div class="skillbox">
         <div class="skill">
-            Protein Purification
+            Protein Expression & Purification
         </div>
         <div class="skill">
-            Enzyme Kinetics
+            FIDA
         </div>
         <div class="skill">
-            Molecular Biology
+            Mass Photometry
         </div>
         <div class="skill">
-            Chromatography
+            NMR
         </div>
         <div class="skill">
-            PCR
+            SPR
+        </div>
+        <div class="skill">
+            Circular Dichroism
+        </div>
+        <div class="skill">
+            DNA Production & Purification
+        </div>
+        <div class="skill">
+            Advanced Molecular Biology Techniques
         </div>
         <div class="skill">
             Bioinformatics
         </div>
         <div class="skill">
-            Cell Culture
+            Enzyme Assays
         </div>
         <div class="skill">
-            Mass Spectrometry
+            Confocal Microscopy
         </div>
         <div class="skill">
-            Structural Biology
-        </div>
-        <div class="skill">
-            Genomics
-        </div>
-        <div class="skill">
-            Immunology
-        </div>
-        <div class="skill">
-            NMR Spectroscopy
-        </div>
-        <div class="skill">
-            Fluorescence Microscopy
-        </div>
-        <div class="skill">
-            Proteomics
+            Flow Cytometry
         </div>
         <div class="skill">
             SDS-PAGE
         </div>
         <div class="skill">
-            Assay Development
+            Data & Statistical Analysis
         </div>
         <div class="skill">
-            Biochemical Analysis
+            PyMOL
         </div>
         <div class="skill">
-            Plasmid Purification
+            Benchling
         </div>
         <div class="skill">
-            Western Blot
+            OriginLab
+        </div>
+        <div class="skill">
+            Sample Preparation
+        </div>
+        <div class="skill">
+            Troubleshooting & Optimisation
+        </div>
+        <div class="skill">
+            Detailed Record Keeping
+        </div>
+        <div class="skill">
+            Good Laboratory Practice (GLP)
         </div>
     </div>
 </div>
