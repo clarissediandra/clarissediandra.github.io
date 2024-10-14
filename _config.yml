@@ -4,44 +4,53 @@ description: "&copy; Clarisse Diandra 2024"
 permalink: /:categories/:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
-date_format: "%Y"         # default: "%B %d, %Y"
+date_format: "%Y" # default: "%B %d, %Y"
 
 # Layout
 
-show_frame: false          # adds a gray frame to the site
-show_sidebar: false        # show a sidebar instead of the usual header
-minimal: false             # use a dark header
+show_frame: false # adds a gray frame to the site
+show_sidebar: false # show a sidebar instead of the usual header
+minimal: false # use a dark header
 
 # Menu
 
-icons:                     # additional icons that can be used in the text across the website
-  - {icon: keyboard}
-  - {icon: location-dot}
-  - {icon: c}
-  - {icon: file}
-  - {icon: dna}
-  - {icon: flask}
-  - {icon: magnifying-glass}
-  - {icon: book}
-  - {icon: file}
-  - {icon: fire}
-  - {icon: heart}
+icons: # additional icons that can be used in the text across the website
+  - { icon: keyboard }
+  - { icon: location-dot }
+  - { icon: c }
+  - { icon: file }
+  - { icon: dna }
+  - { icon: flask }
+  - { icon: magnifying-glass }
+  - { icon: book }
+  - { icon: file }
+  - { icon: fire }
+  - { icon: heart }
+  - { icon: users }
 
-navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "research.html", icon: "magnifying-glass", title: "Research Experience"}
-  - {file: "passion.html", icon: "heart", title: "Passion Projects"}
-  - {file: "certificates.html", icon: "file", title: "Certificates & Awards"}
-  - {file: "nonresearch.html", icon: "book", title: "Non-Research Experience"}
+navigation: # accepts {file, title, url, icon, sidebaricon}
+  - {
+      file: "research.html",
+      icon: "magnifying-glass",
+      title: "Research Experience",
+    }
+  - { file: "reviews.html", icon: "book", title: "Literature Reviews" }
+  - { file: "certificates.html", icon: "file", title: "Certificates & Awards" }
+  - {
+      file: "nonresearch.html",
+      icon: "users",
+      title: "Non-Research Experience",
+    }
   # - {file: "categories.html"}
 
-external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {icon: envelope, url: "mailto:clarisse14diandra@gmail.com"}
-  - {icon: linkedin, url: "https://www.linkedin.com/in/clarissediandra"}
-  - {icon: rss, url: "/feed.xml"}
+external: # shows a footer with social links - for available icons see fontawesome.com/icons
+  - { icon: envelope, url: "mailto:clarisse14diandra@gmail.com" }
+  - { icon: linkedin, url: "https://www.linkedin.com/in/clarissediandra" }
+  - { icon: rss, url: "/feed.xml" }
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
 #  isso_domain: ""         # see https://posativ.org/isso/
 
 plugins:
- - jekyll-feed
+  - jekyll-feed
