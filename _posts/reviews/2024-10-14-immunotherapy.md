@@ -10,5 +10,5 @@ Immunotherapy has emerged as a promising approach to treating advanced cancers, 
 
 
 <div style="width: 100%; display: flex; justify-content: center;"> 
-  <embed src="/assets/docs/reviews/immunotherapy/The Development and Future Prospects of Immunotherapy in Cancer Treatment.pdf" width="90%" height="800px" type="application/pdf">
+  <embed src="/assets/docs/reviews/immunotherapy/The Development and Future Prospects of Immunotherapy in Cancer Treatment.pdf" width="100%" height="1000px" type="application/pdf">
 </div>
