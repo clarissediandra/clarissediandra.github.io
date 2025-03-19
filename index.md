@@ -132,16 +132,16 @@ My research journey as a Biochemistry Masters Student at the University of Leeds
     <h2 style="text-align: center; margin-top: 0px;">Interests & Hobbies</h2>
     <div class="skillbox">
         <div class="skill">
-            Painting
+            Scientific Research
+        </div>
+        <div class="skill">
+            Health & Wellness
+        </div>
+        <div class="skill">
+            Forensic Science & Investigation
         </div>
         <div class="skill">
             2D Art
-        </div>
-        <div class="skill">
-            Photography
-        </div>
-        <div class="skill">
-            Ancient History
         </div>
     </div>
 </div>
