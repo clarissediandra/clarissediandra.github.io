@@ -10,7 +10,6 @@ layout: page
                 <div class="desc">
                     <div class="title">Clarisse Diandra</div>
                     <div class="row">Biochemistry MBiol, Bsc</div>
-                    <div class="loc"><svg aria-hidden=true class="icon"><use xlink:href="{{ "/assets/fontawesome/icons.svg" | relative_url }}#location-dot"></use></svg> London, United Kingdom</div>
                 </div>
             </div>
             <h2 style="margin-top:0px">About me</h2>
