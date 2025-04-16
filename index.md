@@ -11,7 +11,6 @@ layout: page
                     <div class="title">Clarisse Diandra</div>
                     <div class="row">Biochemistry MBiol, Bsc</div>
                     <div class="loc"><svg aria-hidden=true class="icon"><use xlink:href="{{ "/assets/fontawesome/icons.svg" | relative_url }}#location-dot"></use></svg> London, United Kingdom</div>
-                    <div class="more"><a class="resume" href="/assets/docs/Clarisse%20Diandra%20Resume.pdf"><div class="loc">My Resume <svg aria-hidden=true class="icon"><use xlink:href="{{ "/assets/fontawesome/icons.svg" | relative_url }}#file"></use></svg></div></a></div>
                 </div>
             </div>
             <h2 style="margin-top:0px">About me</h2>
