@@ -16,9 +16,11 @@ layout: page
 <div markdown="1">
 I am Clarisse, a passionate biochemist with a strong interest in research and the ever-evolving scientific advancement in bacteria, viruses, and cancer as well as their clinical treatment. With a curious nature and a penchant for problem-solving, I thrive on solving research questions and actively participating in new discoveries into current research gaps.
 
-My research journey as a Biochemistry Masters Student at the University of Leeds was an eye-opening experience for 4 years, during which I honed my skills in sample preparations, protein biophysical characterisations, and bioinformatics. I am committed to delivering high-quality outputs reliably within the given time frame. Driven by a genuine love for research, I approach each challenge with enthusiasm and a keen eye for detail. My commitment to continuous learning and self-development ensures that I stay at the forefront of emerging trends and technologies, always seeking new ways to elevate my skills. I graduated in July 2024 with a high Upper Second-Class Honours degree as a Master of Biology and a Bachelor of Science.
+My research journey as a Biochemistry Masters Student at the University of Leeds was an eye-opening experience for 4 years. My previous research experience spans both independent and collaborative projects, with a focus on biophysical characterisation. I have worked with techniques involving protein-protein interaction analyses, subcellular localisation, quantification of cellular markers, dynamic structural biology of membrane protein, and molecular biology.
+
+I am committed to delivering high-quality outputs reliably within the given time frame. Driven by a genuine love for research, I approach each challenge with enthusiasm and a keen eye for detail. My commitment to continuous learning and self-development ensures that I stay at the forefront of emerging trends and technologies, always seeking new ways to elevate my skills. I graduated in July 2024 with a high Upper Second-Class Honours degree as a Master of Biology and a Bachelor of Science.
 </div>
-    </div>
+</div>
 <p style="width:100%; text-align:center;" markdown="1">
 *“To know how to wonder and question is the first step of the mind toward discovery.”* ~&nbsp;Louis&nbsp;Pasteur
 </p>
