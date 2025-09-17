@@ -127,21 +127,3 @@ I am committed to delivering high-quality outputs reliably within the given time
         </a>
     </div>
 </div>
-
-<div class="business-card">
-    <h2 style="text-align: center; margin-top: 0px;">Interests & Hobbies</h2>
-    <div class="skillbox">
-        <div class="skill">
-            Scientific Research
-        </div>
-        <div class="skill">
-            Health & Wellness
-        </div>
-        <div class="skill">
-            Forensic Science & Investigation
-        </div>
-        <div class="skill">
-            2D Art
-        </div>
-    </div>
-</div>
