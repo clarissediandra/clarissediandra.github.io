@@ -122,8 +122,8 @@ I am committed to delivering high-quality outputs reliably within the given time
         <a style="text-decoration:none" title="SnapGene" href="https://www.snapgene.com">
             <img class="softwareicon" alt="SnapGene logo" src="/assets/img/logos/snapgene.svg">
         </a>
-        <a style="text-decoration:none" title="AutoDock" href="https://autodock.scripps.edu">
-            <img class="softwareicon" alt="AutoDock logo" src="/assets/img/logos/autodock.png">
+        <a style="text-decoration:none" title="ArgusLab" href="http://www.arguslab.com/arguslab.com/ArgusLab.html">
+            <img class="softwareicon" alt="ArgusLab logo" src="/assets/img/logos/arguslab.png">
         </a>
     </div>
 </div>
